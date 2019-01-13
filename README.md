@@ -10,6 +10,6 @@ class Check{
          System.out.println("Negative");
       else
          System.out.println("Zero");
-   }
+  }
 }
          
